@@ -1,0 +1,139 @@
+.login-container{
+  width: 100%;
+  height: 680px;
+  border: 1px solid black;
+  background-image: url(https://qph.fs.quoracdn.net/main-qimg-b5faebde65208b4e09af0a85b3893ddd-lq);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.logint{
+  width: 55%;
+  height: 95%;
+  border: 2px solid transparent;
+  margin: auto;
+  margin-top: 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: white;
+  
+}
+.quora1{
+  text-align: center;
+  margin-top: 30px;
+  line-height: 45px;
+}
+.q2{
+  font-size: 50px;
+  font-family: sans-serif;
+  color: #b92b27;
+}
+.p1{
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: #636466;
+}
+.sign1{
+  width: 95%;
+  height: 75%;
+  /* border: 2px solid black; */
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  /* align-items: center; */
+}
+.sign1>div{
+  width: 50%;
+  height: 100%;
+  border: 2px solid transparent;
+
+}
+.gimg{
+  height: 30px;
+  width: 30px;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+.gname{
+  margin-left: 10px;
+  margin-top: 16px;
+  margin-left: 20px;
+  color: #282829;
+}
+.gl1{
+  height: 50px;
+  width: 300px;
+  border: 1px solid gray;
+  cursor: pointer;
+  display: flex;
+  margin: auto;
+  margin-top: 10px;
+}
+.bgm{
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 0px;
+  background-color: transparent;
+  padding: 6px 90px;
+}
+.bgm:hover{
+background-color: #a0a2a4;
+cursor: pointer;
+border-radius: 10px;
+}
+.hr1{
+  margin: auto;
+  margin-top: 10px;
+  width: 90%;
+ 
+}
+.des1{
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  /* color: black; */
+}
+.l1{
+  margin-left: 16px;
+  margin-top: 16px;
+  font-weight: bold;
+}
+.emailI{
+  margin-left: 16px;
+  margin-top: 10px;
+  height: 40px;
+  width: 90%;
+}
+.lbtn{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.logn3{
+  padding: 3px 14px;
+  background-color: #2e69ff;
+  color: white;
+  border: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.last1{
+
+  height: 80px;
+  width: 90%;
+  margin: auto;
+  /* border: 1px solid red; */
+  margin-top: 20px;
+ line-height: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  background-color: #ebf0ff;
+  color: #2e69ff;
+  border-radius: 10px;
+
+}
